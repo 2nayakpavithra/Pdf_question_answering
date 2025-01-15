@@ -169,3 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+#Token and connection details:
+ASTRA_DB_APPLICATION_TOKEN = "AstraCS:tBHNBHqlPEMHiGgRxKiBfAZX:a3230124f3589b15142866584ae336d5d6c735b53714777e7a7907e5e2e9d9f7"
+ASTRA_DB_API_ENDPOINT = "https://07ed688b-79c9-4e9e-9e85-380d2bf74ed1-us-east1.apps.astra.datastax.com"
+huggingfacehub_api_token = "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"
