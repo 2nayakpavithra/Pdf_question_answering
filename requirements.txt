@@ -2,3 +2,7 @@ streamlit
 pypdf2
 langchain
 huggingface_hub 
+langchain_community
+langchain_astradb 
+langchain-huggingface
+pypdf
